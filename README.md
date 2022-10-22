@@ -1,5 +1,5 @@
 # Windows mouse coursor move
-Move mouse coursor in certain period of time to keep user session alive
+Move mouse coursor in certain period of time to keep user session alive 
 
 - Clone the repo
 ```
